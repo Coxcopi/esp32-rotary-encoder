@@ -1,0 +1,21 @@
+{
+  "name": "RotaryEncoder",
+  "version": "0.1.0",
+  "description": "esp-idf rotary encoder library",
+  "keywords": "esp, esp32, esp32-c3, rotary, encoder, esp-idf",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/username/hello-world.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Coxcopi",
+      "maintainer": true
+    }
+  ],
+  "dependencies": {},
+  "frameworks": "espidf,arduino",
+  "platforms": "espressif32"
+}
